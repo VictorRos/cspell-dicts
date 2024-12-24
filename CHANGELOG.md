@@ -1,5 +1,17 @@
 # Release Notes
 
+## [28.4.0](https://github.com/VictorRos/cspell-dicts/compare/cspell-dicts@28.3.2...cspell-dicts@28.4.0) (2024-12-24)
+
+
+### Features
+
+* Add coding compound terms. ([#3920](https://github.com/VictorRos/cspell-dicts/issues/3920)) ([d414545](https://github.com/VictorRos/cspell-dicts/commit/d414545b796bdf55dbaaeeb1954430323baf56bb))
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Update Dictionaries ([#3918](https://github.com/VictorRos/cspell-dicts/issues/3918)) ([bdd0f54](https://github.com/VictorRos/cspell-dicts/commit/bdd0f5435c82ab3cba19d8280aeb57a659c91a13))
+
 ## [28.3.2](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@28.3.1...cspell-dicts@28.3.2) (2024-12-21)
 
 
