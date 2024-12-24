@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.0](https://github.com/VictorRos/cspell-dicts/compare/@cspell/dict-software-terms@4.1.21...@cspell/dict-software-terms@4.2.0) (2024-12-24)
+
+
+### Features
+
+* Add coding compound terms. ([#3920](https://github.com/VictorRos/cspell-dicts/issues/3920)) ([d414545](https://github.com/VictorRos/cspell-dicts/commit/d414545b796bdf55dbaaeeb1954430323baf56bb))
+
 ## [4.1.21](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-software-terms@4.1.20...@cspell/dict-software-terms@4.1.21) (2024-12-21)
 
 

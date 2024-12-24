@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.20](https://github.com/VictorRos/cspell-dicts/compare/@cspell/dict-npm@5.1.19...@cspell/dict-npm@5.1.20) (2024-12-24)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Update Dictionaries ([#3918](https://github.com/VictorRos/cspell-dicts/issues/3918)) ([bdd0f54](https://github.com/VictorRos/cspell-dicts/commit/bdd0f5435c82ab3cba19d8280aeb57a659c91a13))
+
 ## [5.1.19](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-npm@5.1.18...@cspell/dict-npm@5.1.19) (2024-12-21)
 
 
